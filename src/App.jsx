@@ -178,8 +178,6 @@ const App = () => {
     }
   };
 
-  
-
   return (
     <div className={`app-container ${theme === "light" ? "light-theme" : "dark-theme"}`}>
       <div
